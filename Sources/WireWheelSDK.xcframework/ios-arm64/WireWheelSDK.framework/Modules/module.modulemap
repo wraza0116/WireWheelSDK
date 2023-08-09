@@ -1,0 +1,4 @@
+framework module WireWheelSDK {
+  header "WireWheelSDK-Swift.h"
+  requires objc
+}
