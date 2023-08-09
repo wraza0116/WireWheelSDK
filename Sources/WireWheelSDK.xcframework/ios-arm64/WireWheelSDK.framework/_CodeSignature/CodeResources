@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Assets.car</key>
-		<data>
-		OUOafX1jMxjMoNJR5GIOA6RIKkk=
-		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
 		tG+0NJBTDJU1pGyTkthn/3SEV7s=
@@ -44,17 +40,21 @@
 		<data>
 		TrzODzz78VUwMyc5M/UToaa1+6I=
 		</data>
+		<key>Headers/WireWheelSDK.h</key>
+		<data>
+		KFrJc9P04S6KMaR7kmFYU2YW+iY=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		8axCHz0GE/hzqz7nX9TOXRrFYhY=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		bfCmmUJXU4/fuVd9UbjxGPFTcMs=
+		bMes/OfkzoSvbIGSnPw9raR3xeI=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		bBajcwcQ2q9uqew4qHQyARprSxk=
+		K/+R8qqAtPRxaHeb+BYfPJewXYs=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -62,15 +62,15 @@
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		bBajcwcQ2q9uqew4qHQyARprSxk=
+		K/+R8qqAtPRxaHeb+BYfPJewXYs=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		opFSxaEqCJSKZJdVBI+lKpzwCsc=
+		QFqJ8eVUQse8jnHHqf6xw1dj+uI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		wT2WMCN5DIrmclZP06zJE+Vs0lA=
+		i0/+LoGTEIUDV1gzUBT1EoAGjRw=
 		</data>
 		<key>NotoSans-Bold.ttf</key>
 		<data>
@@ -91,13 +91,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Assets.car</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m7RjgoWfA6fJsv1ktI2pax94IxNWv4eHsWpM9uBvKk0=
-			</data>
-		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -161,18 +154,25 @@
 			ilvboEY7NazHzoTLPaIDPOMGMFVDOCecYxgpbcLp5nA=
 			</data>
 		</dict>
+		<key>Headers/WireWheelSDK.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VF4wlRrjLExRiLrr9h1CgZqnqMd30sWHjpGI1gf6DHU=
+			</data>
+		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mBnpJ+AoicoB7u4K6xwSy7YXf1MTsc9p+SR1LFz6O5I=
+			tDI4fWq/lv6AgW/8LlSkzR1sHwfh3Hwx1bBoIdobsCg=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V3n0BRFH1aJ8KJvCS8Lnze5RqiNyieMHjNY/3QvighA=
+			DGkU5ZMZMKq3VFblGpBcvr9N+gqZSiGNSCu2bPegrnk=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -186,21 +186,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V3n0BRFH1aJ8KJvCS8Lnze5RqiNyieMHjNY/3QvighA=
+			DGkU5ZMZMKq3VFblGpBcvr9N+gqZSiGNSCu2bPegrnk=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SIMxPfseuytXjv6zogX5lg78PU7/3DpIylpHmn0fjrg=
+			k86cKZ36YUMxSG1Y4ckMl1QEsspCzQ3nkO1ghPxCjlI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EBE4P55ZTv2j4kQYWH9fEZpoKfkrsNncPtj47RNN8h8=
+			T1HOCmybkB678qfpEwyxOGI04nU7HWVPrktye9427HE=
 			</data>
 		</dict>
 		<key>NotoSans-Bold.ttf</key>

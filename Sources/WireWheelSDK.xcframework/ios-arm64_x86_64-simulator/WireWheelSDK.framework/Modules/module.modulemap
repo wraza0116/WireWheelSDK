@@ -1,4 +1,11 @@
 framework module WireWheelSDK {
+  umbrella header "WireWheelSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module WireWheelSDK.Swift {
   header "WireWheelSDK-Swift.h"
   requires objc
 }
