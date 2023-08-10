@@ -8,11 +8,11 @@ import UIKit
 @_exported import WireWheelSDK
 import _Concurrency
 import _StringProcessing
-public struct WireWheelSDK {
-  public static func configure(view: UIKit.UIViewController)
-}
 extension UIKit.UIAlertController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()
+}
+public struct WireWheelSDK {
+  public static func configure(view: UIKit.UIViewController)
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) open class SegmentedControl : UIKit.UISegmentedControl {
   @_Concurrency.MainActor(unsafe) public var controlHeight: CoreFoundation.CGFloat {
