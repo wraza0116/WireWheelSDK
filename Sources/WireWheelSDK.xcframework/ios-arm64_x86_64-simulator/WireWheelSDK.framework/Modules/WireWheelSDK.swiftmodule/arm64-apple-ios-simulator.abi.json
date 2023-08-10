@@ -16,43 +16,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "WireWheelSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "WireWheelSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "WireWheelSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "WireWheelSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -96,47 +59,9 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "WireWheelSDK"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "WireWheelSDK",
-        "printedName": "WireWheelSDK",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "configure",
-            "printedName": "configure(view:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UIViewController",
-                "printedName": "UIKit.UIViewController",
-                "usr": "c:objc(cs)UIViewController"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:12WireWheelSDKAAV9configure4viewySo16UIViewControllerC_tFZ",
-            "mangledName": "$s12WireWheelSDKAAV9configure4viewySo16UIViewControllerC_tFZ",
-            "moduleName": "WireWheelSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Struct",
-        "usr": "s:12WireWheelSDKAAV",
-        "mangledName": "$s12WireWheelSDKAAV",
         "moduleName": "WireWheelSDK",
         "declAttributes": [
-          "AccessControl"
+          "RawDocComment"
         ]
       },
       {
@@ -158,13 +83,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "WireWheelSDK"
       },
       {
         "kind": "Import",
@@ -1017,6 +935,43 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "WireWheelSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "WireWheelSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "WireWheelSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "WireWheelSDK"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -1030,10 +985,7 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "WireWheelSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "WireWheelSDK"
       },
       {
         "kind": "Import",
@@ -1043,6 +995,54 @@
         "moduleName": "WireWheelSDK",
         "declAttributes": [
           "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "WireWheelSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "WireWheelSDK",
+        "printedName": "WireWheelSDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "configure",
+            "printedName": "configure(view:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12WireWheelSDKAAV9configure4viewySo16UIViewControllerC_tFZ",
+            "mangledName": "$s12WireWheelSDKAAV9configure4viewySo16UIViewControllerC_tFZ",
+            "moduleName": "WireWheelSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:12WireWheelSDKAAV",
+        "mangledName": "$s12WireWheelSDKAAV",
+        "moduleName": "WireWheelSDK",
+        "declAttributes": [
+          "AccessControl"
         ]
       },
       {
@@ -1175,305 +1175,186 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 155,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 175,
-      "length": 2,
-      "value": "12"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 196,
-      "length": 2,
-      "value": "13"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 216,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 239,
-      "length": 2,
-      "value": "15"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 259,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 281,
-      "length": 2,
-      "value": "17"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 303,
-      "length": 2,
-      "value": "18"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 325,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 350,
-      "length": 2,
-      "value": "24"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 155,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 175,
-      "length": 2,
-      "value": "12"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 196,
-      "length": 2,
-      "value": "13"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 216,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 239,
-      "length": 2,
-      "value": "15"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 259,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 281,
-      "length": 2,
-      "value": "17"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 303,
-      "length": 2,
-      "value": "18"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 325,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 350,
-      "length": 2,
-      "value": "24"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 155,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 175,
-      "length": 2,
-      "value": "12"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 196,
-      "length": 2,
-      "value": "13"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 216,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 239,
-      "length": 2,
-      "value": "15"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 259,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 281,
-      "length": 2,
-      "value": "17"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 303,
-      "length": 2,
-      "value": "18"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 325,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 350,
-      "length": 2,
-      "value": "24"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
       "kind": "StringLiteral",
-      "offset": 400,
-      "length": 18,
-      "value": "\"NotoSans-Regular\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "StringLiteral",
-      "offset": 437,
-      "length": 17,
-      "value": "\"NotoSans-Medium\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "StringLiteral",
-      "offset": 471,
-      "length": 15,
-      "value": "\"NotoSans-Bold\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "StringLiteral",
-      "offset": 507,
-      "length": 19,
-      "value": "\"NotoSans-SemiBold\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "StringLiteral",
-      "offset": 400,
-      "length": 18,
-      "value": "\"NotoSans-Regular\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "StringLiteral",
-      "offset": 437,
-      "length": 17,
-      "value": "\"NotoSans-Medium\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "StringLiteral",
-      "offset": 471,
-      "length": 15,
-      "value": "\"NotoSans-Bold\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "StringLiteral",
-      "offset": 507,
-      "length": 19,
-      "value": "\"NotoSans-SemiBold\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2365,
+      "offset": 154,
       "length": 2,
-      "value": "10"
+      "value": "\"\""
     },
     {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
       "kind": "IntegerLiteral",
-      "offset": 2416,
+      "offset": 180,
       "length": 1,
-      "value": "0"
+      "value": "1"
     },
     {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2467,
-      "length": 1,
-      "value": "2"
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
+      "kind": "StringLiteral",
+      "offset": 206,
+      "length": 2,
+      "value": "\"\""
     },
     {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "FloatLiteral",
-      "offset": 2576,
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
+      "kind": "StringLiteral",
+      "offset": 239,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
+      "kind": "StringLiteral",
+      "offset": 267,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
+      "kind": "StringLiteral",
+      "offset": 302,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
+      "kind": "StringLiteral",
+      "offset": 382,
+      "length": 15,
+      "value": "\"defaultAction\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
+      "kind": "StringLiteral",
+      "offset": 448,
+      "length": 13,
+      "value": "\"description\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
+      "kind": "StringLiteral",
+      "offset": 508,
+      "length": 9,
+      "value": "\"enabled\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
+      "kind": "StringLiteral",
+      "offset": 556,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
+      "kind": "StringLiteral",
+      "offset": 605,
+      "length": 7,
+      "value": "\"title\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
+      "kind": "StringLiteral",
+      "offset": 148,
       "length": 3,
-      "value": "0.3"
+      "value": "\"0\""
     },
     {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2776,
-      "length": 5,
-      "value": "false"
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 175,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
+      "kind": "StringLiteral",
+      "offset": 201,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
+      "kind": "StringLiteral",
+      "offset": 234,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
+      "kind": "StringLiteral",
+      "offset": 262,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
+      "kind": "StringLiteral",
+      "offset": 297,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
+      "kind": "StringLiteral",
+      "offset": 377,
+      "length": 15,
+      "value": "\"defaultAction\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
+      "kind": "StringLiteral",
+      "offset": 443,
+      "length": 13,
+      "value": "\"description\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
+      "kind": "StringLiteral",
+      "offset": 503,
+      "length": 9,
+      "value": "\"enabled\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
+      "kind": "StringLiteral",
+      "offset": 551,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
+      "kind": "StringLiteral",
+      "offset": 600,
+      "length": 7,
+      "value": "\"title\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/WebConnections\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 343,
+      "length": 15,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/WebConnections\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 357,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/WebConnections\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 484,
+      "length": 9,
+      "value": "\"error :\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/WebConnections\/APIServices.swift",
+      "kind": "StringLiteral",
+      "offset": 941,
+      "length": 9,
+      "value": "\"error :\""
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Channel.swift",
@@ -1623,6 +1504,104 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 524,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 1625,
+      "length": 13,
+      "value": "\"btnMoreInfo\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 1759,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 1764,
+      "length": 228,
+      "value": "\"Consent to Process My  Personal Race, Consent to Process My  Personal Race, Consent to Process My  Personal Race, Consent to Process My  Personal Race, Consent to Process My  Personal Race, Consent to Process My  Personal Race\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2057,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2061,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 151,
+      "length": 7,
+      "value": "\"token\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 151,
+      "length": 7,
+      "value": "\"token\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 205,
+      "length": 35,
+      "value": "\"https:\/\/api.upcp.wirewheel.io\/v2\/\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 268,
+      "length": 67,
+      "value": "\"https:\/\/wirewheelio.okta.com\/oauth2\/aus64qzdd9T18E0ZZ697\/v1\/token\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 363,
+      "length": 75,
+      "value": "\"?grant_type=client_credentials&scope=consent-insert-api%20consent-get-api\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 514,
+      "length": 29,
+      "value": "\"2RZih07HcFq9wtHJnKuvS8KU66k\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 597,
+      "length": 10,
+      "value": "\"channels\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 597,
+      "length": 10,
+      "value": "\"channels\""
+    },
+    {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Dashboard\/WireWheelDashboardVC.swift",
       "kind": "IntegerLiteral",
       "offset": 1374,
@@ -1721,433 +1700,6 @@
       "value": "\"label\""
     },
     {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
-      "kind": "StringLiteral",
-      "offset": 305,
-      "length": 12,
-      "value": "\"token_type\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
-      "kind": "StringLiteral",
-      "offset": 343,
-      "length": 12,
-      "value": "\"expires_in\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
-      "kind": "StringLiteral",
-      "offset": 383,
-      "length": 14,
-      "value": "\"access_token\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
-      "kind": "StringLiteral",
-      "offset": 305,
-      "length": 12,
-      "value": "\"token_type\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
-      "kind": "StringLiteral",
-      "offset": 343,
-      "length": 12,
-      "value": "\"expires_in\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
-      "kind": "StringLiteral",
-      "offset": 383,
-      "length": 14,
-      "value": "\"access_token\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
-      "kind": "StringLiteral",
-      "offset": 630,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 713,
-      "length": 2,
-      "value": "-1"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
-      "kind": "StringLiteral",
-      "offset": 803,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
-      "kind": "StringLiteral",
-      "offset": 881,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
-      "kind": "StringLiteral",
-      "offset": 148,
-      "length": 3,
-      "value": "\"0\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 175,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
-      "kind": "StringLiteral",
-      "offset": 201,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
-      "kind": "StringLiteral",
-      "offset": 234,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
-      "kind": "StringLiteral",
-      "offset": 262,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
-      "kind": "StringLiteral",
-      "offset": 297,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
-      "kind": "StringLiteral",
-      "offset": 377,
-      "length": 15,
-      "value": "\"defaultAction\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
-      "kind": "StringLiteral",
-      "offset": 443,
-      "length": 13,
-      "value": "\"description\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
-      "kind": "StringLiteral",
-      "offset": 503,
-      "length": 9,
-      "value": "\"enabled\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
-      "kind": "StringLiteral",
-      "offset": 551,
-      "length": 4,
-      "value": "\"id\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Consent.swift",
-      "kind": "StringLiteral",
-      "offset": 600,
-      "length": 7,
-      "value": "\"title\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
-      "kind": "StringLiteral",
-      "offset": 154,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
-      "kind": "IntegerLiteral",
-      "offset": 180,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
-      "kind": "StringLiteral",
-      "offset": 206,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
-      "kind": "StringLiteral",
-      "offset": 239,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
-      "kind": "StringLiteral",
-      "offset": 267,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
-      "kind": "StringLiteral",
-      "offset": 302,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
-      "kind": "StringLiteral",
-      "offset": 382,
-      "length": 15,
-      "value": "\"defaultAction\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
-      "kind": "StringLiteral",
-      "offset": 448,
-      "length": 13,
-      "value": "\"description\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
-      "kind": "StringLiteral",
-      "offset": 508,
-      "length": 9,
-      "value": "\"enabled\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
-      "kind": "StringLiteral",
-      "offset": 556,
-      "length": 4,
-      "value": "\"id\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/Preference.swift",
-      "kind": "StringLiteral",
-      "offset": 605,
-      "length": 7,
-      "value": "\"title\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utilities\/WireWheelSDK.swift",
-      "kind": "StringLiteral",
-      "offset": 250,
-      "length": 11,
-      "value": "\"WireWheel\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utilities\/WireWheelSDK.swift",
-      "kind": "StringLiteral",
-      "offset": 376,
-      "length": 22,
-      "value": "\"WireWheelDashboardVC\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utilities\/WireWheelSDK.swift",
-      "kind": "BooleanLiteral",
-      "offset": 463,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 151,
-      "length": 7,
-      "value": "\"token\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 151,
-      "length": 7,
-      "value": "\"token\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 205,
-      "length": 35,
-      "value": "\"https:\/\/api.upcp.wirewheel.io\/v2\/\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 268,
-      "length": 67,
-      "value": "\"https:\/\/wirewheelio.okta.com\/oauth2\/aus64qzdd9T18E0ZZ697\/v1\/token\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 363,
-      "length": 75,
-      "value": "\"?grant_type=client_credentials&scope=consent-insert-api%20consent-get-api\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 514,
-      "length": 29,
-      "value": "\"2RZih07HcFq9wtHJnKuvS8KU66k\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 597,
-      "length": 10,
-      "value": "\"channels\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 597,
-      "length": 10,
-      "value": "\"channels\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 358,
-      "length": 86,
-      "value": "\"Keychain: Unable to store data, invalid input - key: \""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 422,
-      "length": 1,
-      "value": "\", value: \""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 443,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 629,
-      "length": 32,
-      "value": "\"Keychain: nothing to delete...\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1103,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 1125,
-      "length": 50,
-      "value": "\"Keychain: value not added - Error: \""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 1174,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 1212,
-      "length": 36,
-      "value": "\"Keychain: value added successfully\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1661,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 1683,
-      "length": 63,
-      "value": "\"Keychain: unable to delete from keychain: \""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 1745,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 1783,
-      "length": 37,
-      "value": "\"Keychain: successfully deleted item\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2428,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 2450,
-      "length": 51,
-      "value": "\"Keychain: unable to load data - \""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 2500,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 2720,
-      "length": 61,
-      "value": "\"Keychain: error parsing keychain result - \""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 2780,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
-      "kind": "StringLiteral",
-      "offset": 3108,
-      "length": 31,
-      "value": "\"com.myorg.myappid.unique_uuid\""
-    },
-    {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/SegmentedControl.swift",
       "kind": "IntegerLiteral",
       "offset": 232,
@@ -2223,6 +1775,76 @@
       "offset": 116,
       "length": 16,
       "value": "\"WireWheelSDK.SegmentedControl\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
+      "kind": "StringLiteral",
+      "offset": 305,
+      "length": 12,
+      "value": "\"token_type\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
+      "kind": "StringLiteral",
+      "offset": 343,
+      "length": 12,
+      "value": "\"expires_in\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
+      "kind": "StringLiteral",
+      "offset": 383,
+      "length": 14,
+      "value": "\"access_token\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
+      "kind": "StringLiteral",
+      "offset": 305,
+      "length": 12,
+      "value": "\"token_type\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
+      "kind": "StringLiteral",
+      "offset": 343,
+      "length": 12,
+      "value": "\"expires_in\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
+      "kind": "StringLiteral",
+      "offset": 383,
+      "length": 14,
+      "value": "\"access_token\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
+      "kind": "StringLiteral",
+      "offset": 630,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 713,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
+      "kind": "StringLiteral",
+      "offset": 803,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Models\/AccessTokenModel.swift",
+      "kind": "StringLiteral",
+      "offset": 881,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/WebConnections\/WebServiceManager.swift",
@@ -2582,74 +2204,452 @@
       "value": "\"Success\""
     },
     {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/WebConnections\/APIServices.swift",
-      "kind": "StringLiteral",
-      "offset": 343,
-      "length": 15,
-      "value": "\"\/\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/WebConnections\/APIServices.swift",
-      "kind": "StringLiteral",
-      "offset": 357,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/WebConnections\/APIServices.swift",
-      "kind": "StringLiteral",
-      "offset": 484,
-      "length": 9,
-      "value": "\"error :\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/WebConnections\/APIServices.swift",
-      "kind": "StringLiteral",
-      "offset": 941,
-      "length": 9,
-      "value": "\"error :\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
-      "kind": "BooleanLiteral",
-      "offset": 524,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 1625,
-      "length": 13,
-      "value": "\"btnMoreInfo\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 1759,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 1764,
-      "length": 228,
-      "value": "\"Consent to Process My  Personal Race, Consent to Process My  Personal Race, Consent to Process My  Personal Race, Consent to Process My  Personal Race, Consent to Process My  Personal Race, Consent to Process My  Personal Race\""
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 2057,
+      "offset": 155,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 175,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 196,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 216,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 239,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 259,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 281,
+      "length": 2,
+      "value": "17"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 303,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 325,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 350,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 155,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 175,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 196,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 216,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 239,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 259,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 281,
+      "length": 2,
+      "value": "17"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 303,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 325,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 350,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 155,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 175,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 196,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 216,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 239,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 259,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 281,
+      "length": 2,
+      "value": "17"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 303,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 325,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 350,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 400,
+      "length": 18,
+      "value": "\"NotoSans-Regular\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 437,
+      "length": 17,
+      "value": "\"NotoSans-Medium\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 471,
+      "length": 15,
+      "value": "\"NotoSans-Bold\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
+      "length": 19,
+      "value": "\"NotoSans-SemiBold\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 400,
+      "length": 18,
+      "value": "\"NotoSans-Regular\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 437,
+      "length": 17,
+      "value": "\"NotoSans-Medium\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 471,
+      "length": 15,
+      "value": "\"NotoSans-Bold\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
+      "length": 19,
+      "value": "\"NotoSans-SemiBold\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2365,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2416,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/ConsetsTableViewCell.swift",
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 2061,
+      "offset": 2467,
       "length": 1,
-      "value": "5"
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "FloatLiteral",
+      "offset": 2576,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Extensions\/Font+Extension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2776,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 358,
+      "length": 86,
+      "value": "\"Keychain: Unable to store data, invalid input - key: \""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 422,
+      "length": 1,
+      "value": "\", value: \""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 443,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 629,
+      "length": 32,
+      "value": "\"Keychain: nothing to delete...\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1103,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 1125,
+      "length": 50,
+      "value": "\"Keychain: value not added - Error: \""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 1174,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 1212,
+      "length": 36,
+      "value": "\"Keychain: value added successfully\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1661,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 1683,
+      "length": 63,
+      "value": "\"Keychain: unable to delete from keychain: \""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 1745,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 1783,
+      "length": 37,
+      "value": "\"Keychain: successfully deleted item\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2428,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 2450,
+      "length": 51,
+      "value": "\"Keychain: unable to load data - \""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 2500,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 2720,
+      "length": 61,
+      "value": "\"Keychain: error parsing keychain result - \""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 2780,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utils\/KeychainAccess.swift",
+      "kind": "StringLiteral",
+      "offset": 3108,
+      "length": 31,
+      "value": "\"com.myorg.myappid.unique_uuid\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utilities\/WireWheelSDK.swift",
+      "kind": "StringLiteral",
+      "offset": 250,
+      "length": 11,
+      "value": "\"WireWheel\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utilities\/WireWheelSDK.swift",
+      "kind": "StringLiteral",
+      "offset": 376,
+      "length": 22,
+      "value": "\"WireWheelDashboardVC\""
+    },
+    {
+      "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utilities\/WireWheelSDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 463,
+      "length": 4,
+      "value": "true"
     }
   ]
 }
