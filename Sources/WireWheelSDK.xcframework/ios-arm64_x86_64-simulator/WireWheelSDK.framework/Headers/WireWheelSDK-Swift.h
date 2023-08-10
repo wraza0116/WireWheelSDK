@@ -302,6 +302,7 @@ SWIFT_CLASS("_TtC12WireWheelSDK16SegmentedControl")
 
 
 
+
 #endif
 #if defined(__cplusplus)
 #endif
@@ -608,6 +609,7 @@ SWIFT_CLASS("_TtC12WireWheelSDK16SegmentedControl")
 @interface UIAlertController (SWIFT_EXTENSION(WireWheelSDK))
 - (void)viewDidLayoutSubviews;
 @end
+
 
 
 

@@ -302,6 +302,7 @@ SWIFT_CLASS("_TtC12WireWheelSDK16SegmentedControl")
 
 
 
+
 #endif
 #if defined(__cplusplus)
 #endif

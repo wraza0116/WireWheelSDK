@@ -8,6 +8,9 @@ import UIKit
 @_exported import WireWheelSDK
 import _Concurrency
 import _StringProcessing
+public struct WireWheelSDK {
+  public static func configure(view: UIKit.UIViewController)
+}
 extension UIKit.UIAlertController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()
 }
@@ -42,7 +45,4 @@ extension UIKit.UIAlertController {
   }
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
   @objc deinit
-}
-public struct WireWheelSDK {
-  public static func configure(view: UIKit.UIViewController)
 }
