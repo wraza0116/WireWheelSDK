@@ -1425,35 +1425,35 @@
     {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Project\/WireWheelSDK\/WireWheelSDK\/Extensions\/UIColorExtension.swift",
       "kind": "StringLiteral",
-      "offset": 437,
+      "offset": 433,
       "length": 18,
       "value": "\"app_black_1B1B1B\""
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Project\/WireWheelSDK\/WireWheelSDK\/Extensions\/UIColorExtension.swift",
       "kind": "StringLiteral",
-      "offset": 577,
+      "offset": 569,
       "length": 17,
       "value": "\"app_blue_2278D0\""
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Project\/WireWheelSDK\/WireWheelSDK\/Extensions\/UIColorExtension.swift",
       "kind": "StringLiteral",
-      "offset": 716,
+      "offset": 704,
       "length": 17,
       "value": "\"app_gray_797979\""
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Project\/WireWheelSDK\/WireWheelSDK\/Extensions\/UIColorExtension.swift",
       "kind": "StringLiteral",
-      "offset": 855,
+      "offset": 839,
       "length": 17,
       "value": "\"app_gray_ACACAC\""
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Project\/WireWheelSDK\/WireWheelSDK\/Extensions\/UIColorExtension.swift",
       "kind": "StringLiteral",
-      "offset": 1000,
+      "offset": 980,
       "length": 23,
       "value": "\"app_grayBorder_DDDDDD\""
     },
