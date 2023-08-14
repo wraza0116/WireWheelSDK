@@ -8,38 +8,6 @@ import UIKit
 @_exported import WireWheelSDK
 import _Concurrency
 import _StringProcessing
-@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) open class SegmentedControl : UIKit.UISegmentedControl {
-  @_Concurrency.MainActor(unsafe) public var controlHeight: CoreFoundation.CGFloat {
-    get
-    set
-  }
-  @_Concurrency.MainActor(unsafe) public var underlineHeight: CoreFoundation.CGFloat {
-    get
-    set
-  }
-  @_Concurrency.MainActor(unsafe) public var underlineColor: UIKit.UIColor {
-    get
-    set
-  }
-  @_Concurrency.MainActor(unsafe) public var selectedFont: UIKit.UIFont? {
-    get
-    set
-  }
-  @_Concurrency.MainActor(unsafe) public var unselectedFont: UIKit.UIFont? {
-    get
-    set
-  }
-  @_Concurrency.MainActor(unsafe) public var selectedTextColor: UIKit.UIColor {
-    get
-    set
-  }
-  @_Concurrency.MainActor(unsafe) public var unselectedTextColor: UIKit.UIColor {
-    get
-    set
-  }
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
-  @objc deinit
-}
 extension UIKit.UIAlertController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()
 }

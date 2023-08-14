@@ -22,7 +22,7 @@
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/BgS-SK-90Y-view-YWy-JW-Nqc.nib</key>
 		<data>
-		vvkqkPDpWTRG3AYry+skpMWok6Q=
+		354prKfssSbU701erbZfkqxZ+IM=
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/IdentifyVC.nib</key>
 		<data>
@@ -42,15 +42,15 @@
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/gNf-4v-NQU-view-72u-Lh-usm.nib</key>
 		<data>
-		2kBt9nHJCx73E0+q+iUB8LWc+fo=
+		hk5v6xaTI+Lg6b+lKPAiIJWUFiI=
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/pDj-4e-R1w-view-VRo-4b-jbo.nib</key>
 		<data>
-		SblVO1fUIsxJamt10n9PWWD9gW0=
+		ubXimSaq5JoEfccQ4q8f+vexRLU=
 		</data>
 		<key>Headers/WireWheelSDK-Swift.h</key>
 		<data>
-		0wKqR5vkDyBplTPATD2QR9dg/DY=
+		M/TC894Hb7ppBbM61Asw3/LGwts=
 		</data>
 		<key>Headers/WireWheelSDK.h</key>
 		<data>
@@ -58,15 +58,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HPhIfLoaJzgGB2gMLTFhdr2VpQE=
+		WGk3uOk3PtQORlohYycTQZoKm1A=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		M6IQRiVnNuT7rf/KIIwPuXy4E6o=
+		DNr9cnnWzo1/CjO5H3ndplvG2Ho=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Dqw7RSDgMbIKrClVOToJjr8eaho=
+		zWVhxuFfFbon2JdDk93Hc6aRdHo=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Dqw7RSDgMbIKrClVOToJjr8eaho=
+		zWVhxuFfFbon2JdDk93Hc6aRdHo=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		jYLEXQ4a8VNLTa1VIl3CZ774fw4=
+		5LHLO37J1TsX34k3Nx9XNa2bY5g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -135,7 +135,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TP16tWq9anxioGPjJO17qedtGbfgsrCp8rDPFB3mPDw=
+			zB9JdcAlkOjilDF/+gbN2tOh+/jS/gKHQWdZYBT9w/s=
 			</data>
 		</dict>
 		<key>Base.lproj/WireWheel.storyboardc/IdentifyVC.nib</key>
@@ -170,21 +170,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PKpBZqpAjmRb71Z10a+ojZXavcZILvb29NZxEWM8REE=
+			r1LuNY3GOc0CowsnNFgMjKHGt8oKCJEylMblxPdlbdc=
 			</data>
 		</dict>
 		<key>Base.lproj/WireWheel.storyboardc/pDj-4e-R1w-view-VRo-4b-jbo.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V56TSDCbrNGNPmCdb0v64IZYNc81+nGVn1suASDyw4s=
+			HXrPyKhy6wQ41I/Vjiu5QoWYlGFJ9S1oyRHq3+NeAow=
 			</data>
 		</dict>
 		<key>Headers/WireWheelSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JlSkiUy6TjeXRHFZyUOymsVZtjnNvjXNRTWh7ecjURw=
+			Lt0TuDGY7R6wbwgHWLAKvNizMj6xTSSG393eNtezx/8=
 			</data>
 		</dict>
 		<key>Headers/WireWheelSDK.h</key>
@@ -198,14 +198,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ouBynATy4wqgaUlus/77FDvieN+KFTvjU26485Dwn9E=
+			L3bxLzZIcImQKxrv+Tur7ju5MNIcvhRjri8v+kfc/Ec=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n1aOMMGi1CTiYFSC9IbsOjOhT0l0ktO6KWjeNPcD0Kc=
+			/w+lV7y6x91NqqC8Af9+E1bSBLWD82RyQgc6OI0aA50=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -219,14 +219,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n1aOMMGi1CTiYFSC9IbsOjOhT0l0ktO6KWjeNPcD0Kc=
+			/w+lV7y6x91NqqC8Af9+E1bSBLWD82RyQgc6OI0aA50=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2OmvY95cWsiRiu1YtTSHKOVOYWeXa1NZIi/xERwFd58=
+			EcCd7RIAlqWvnQgGUOfeiRFLo2aAwXlURrxhzajLlAM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -260,8 +260,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreFoundation;
-@import Foundation;
 @import UIKit;
 #endif
 
@@ -283,15 +281,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
-@class NSCoder;
-
-SWIFT_CLASS("_TtC12WireWheelSDK16SegmentedControl")
-@interface SegmentedControl : UISegmentedControl
-- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
-- (nonnull instancetype)initWithItems:(NSArray * _Nullable)items SWIFT_UNAVAILABLE;
-@end
-
 
 @interface UIAlertController (SWIFT_EXTENSION(WireWheelSDK))
 - (void)viewDidLayoutSubviews;
