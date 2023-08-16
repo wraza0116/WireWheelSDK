@@ -10,8 +10,11 @@ import _Concurrency
 import _StringProcessing
 public struct ConfigureAPIKeyWith {
 }
-public struct WireWheelSDK {
-  public static func configureWith(view: UIKit.UIViewController, apiConfig: WireWheelSDK.ConfigureAPIKeyWith)
+@_inheritsConvenienceInitializers @objc final public class WireWheelSDK : ObjectiveC.NSObject {
+  @objc public static let shared: WireWheelSDK.WireWheelSDK
+  @objc override dynamic public init()
+  final public func configureWith(view: UIKit.UIViewController, apiConfig: WireWheelSDK.ConfigureAPIKeyWith.Type)
+  @objc deinit
 }
 extension UIKit.UIAlertController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()

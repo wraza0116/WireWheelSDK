@@ -69,6 +69,86 @@
         "printedName": "WireWheelSDK",
         "children": [
           {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WireWheelSDK",
+                "printedName": "WireWheelSDK.WireWheelSDK",
+                "usr": "c:@M@WireWheelSDK@objc(cs)WireWheelSDK"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@WireWheelSDK@objc(cs)WireWheelSDK(cpy)shared",
+            "mangledName": "$s12WireWheelSDKAAC6sharedABvpZ",
+            "moduleName": "WireWheelSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WireWheelSDK",
+                    "printedName": "WireWheelSDK.WireWheelSDK",
+                    "usr": "c:@M@WireWheelSDK@objc(cs)WireWheelSDK"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@WireWheelSDK@objc(cs)WireWheelSDK(cm)shared",
+                "mangledName": "$s12WireWheelSDKAAC6sharedABvgZ",
+                "moduleName": "WireWheelSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WireWheelSDK",
+                "printedName": "WireWheelSDK.WireWheelSDK",
+                "usr": "c:@M@WireWheelSDK@objc(cs)WireWheelSDK"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@WireWheelSDK@objc(cs)WireWheelSDK(im)init",
+            "mangledName": "$s12WireWheelSDKAACABycfc",
+            "moduleName": "WireWheelSDK",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "configureWith",
             "printedName": "configureWith(view:apiConfig:)",
@@ -86,29 +166,94 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "ConfigureAPIKeyWith",
-                "printedName": "WireWheelSDK.ConfigureAPIKeyWith",
-                "usr": "s:12WireWheelSDK19ConfigureAPIKeyWithV"
+                "name": "Metatype",
+                "printedName": "WireWheelSDK.ConfigureAPIKeyWith.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ConfigureAPIKeyWith",
+                    "printedName": "WireWheelSDK.ConfigureAPIKeyWith",
+                    "usr": "s:12WireWheelSDK19ConfigureAPIKeyWithV"
+                  }
+                ]
               }
             ],
             "declKind": "Func",
-            "usr": "s:12WireWheelSDKAAV13configureWith4view9apiConfigySo16UIViewControllerC_AA015ConfigureAPIKeyE0VtFZ",
-            "mangledName": "$s12WireWheelSDKAAV13configureWith4view9apiConfigySo16UIViewControllerC_AA015ConfigureAPIKeyE0VtFZ",
+            "usr": "s:12WireWheelSDKAAC13configureWith4view9apiConfigySo16UIViewControllerC_AA015ConfigureAPIKeyE0VmtF",
+            "mangledName": "$s12WireWheelSDKAAC13configureWith4view9apiConfigySo16UIViewControllerC_AA015ConfigureAPIKeyE0VmtF",
             "moduleName": "WireWheelSDK",
-            "static": true,
             "declAttributes": [
+              "Final",
               "AccessControl",
               "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           }
         ],
-        "declKind": "Struct",
-        "usr": "s:12WireWheelSDKAAV",
-        "mangledName": "$s12WireWheelSDKAAV",
+        "declKind": "Class",
+        "usr": "c:@M@WireWheelSDK@objc(cs)WireWheelSDK",
+        "mangledName": "$s12WireWheelSDKAAC",
         "moduleName": "WireWheelSDK",
         "declAttributes": [
-          "AccessControl"
+          "Final",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
         ]
       },
       {
@@ -958,21 +1103,21 @@
     {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utilities\/WireWheelSDK.swift",
       "kind": "StringLiteral",
-      "offset": 351,
+      "offset": 548,
       "length": 11,
       "value": "\"WireWheel\""
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utilities\/WireWheelSDK.swift",
       "kind": "StringLiteral",
-      "offset": 477,
+      "offset": 674,
       "length": 22,
       "value": "\"WireWheelDashboardVC\""
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/Projects\/WireWheelSDK_iOS\/Framework\/WireWheelSDK\/WireWheelSDK\/Utilities\/WireWheelSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 572,
+      "offset": 769,
       "length": 4,
       "value": "true"
     },
