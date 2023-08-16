@@ -298,13 +298,6 @@ SWIFT_PROTOCOL("_TtP12WireWheelSDK20WireWheelSDKDelegate_")
 @protocol WireWheelSDKDelegate <NSObject>
 @end
 
-
-SWIFT_CLASS("_TtC12WireWheelSDK13WireWheelSDKK")
-@interface WireWheelSDKK : NSObject
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-@end
-
 #endif
 #if defined(__cplusplus)
 #endif

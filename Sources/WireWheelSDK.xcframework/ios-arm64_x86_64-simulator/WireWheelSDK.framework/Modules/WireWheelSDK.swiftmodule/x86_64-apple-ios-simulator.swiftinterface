@@ -9,11 +9,8 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 public struct WireWheelSDK {
-  public static func configureWith(view: UIKit.UIViewController)
-}
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class WireWheelSDKK : ObjectiveC.NSObject {
-  public func configAPI(apiConfig: WireWheelSDK.ConfigureAPIKeyWith)
-  @objc deinit
+  public mutating func configAPI(apiConfig: WireWheelSDK.ConfigureAPIKeyWith)
+  public static func presentSDK(view: UIKit.UIViewController)
 }
 @objc public protocol WireWheelSDKDelegate : ObjectiveC.NSObjectProtocol {
 }
