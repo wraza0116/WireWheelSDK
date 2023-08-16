@@ -8,14 +8,15 @@ import UIKit
 @_exported import WireWheelSDK
 import _Concurrency
 import _StringProcessing
-public struct WireWheelSDK {
-  public mutating func configAPI(apiConfig: WireWheelSDK.ConfigureAPIKeyWith)
-  public static func presentSDK(view: UIKit.UIViewController)
-}
-@objc public protocol WireWheelSDKDelegate : ObjectiveC.NSObjectProtocol {
-}
 extension UIKit.UIAlertController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()
+}
+@_hasMissingDesignatedInitializers open class WireWheelSDK {
+  open func configAPI(apiConfig: WireWheelSDK.ConfigureAPIKeyWith)
+  public static func presentSDK(view: UIKit.UIViewController)
+  @objc deinit
+}
+@objc public protocol WireWheelSDKDelegate : ObjectiveC.NSObjectProtocol {
 }
 public struct ConfigureAPIKeyWith {
 }
