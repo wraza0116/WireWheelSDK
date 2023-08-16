@@ -42,7 +42,7 @@
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/gNf-4v-NQU-view-72u-Lh-usm.nib</key>
 		<data>
-		hk5v6xaTI+Lg6b+lKPAiIJWUFiI=
+		1z1lQZ4wDinjodqvATaCPH192Z4=
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/pDj-4e-R1w-view-VRo-4b-jbo.nib</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Headers/WireWheelSDK-Swift.h</key>
 		<data>
-		Er0ZmIejDOKDPL5QnYO2I3LM7as=
+		FwIsP52UM1sL0oUqmwJL+SxSEoI=
 		</data>
 		<key>Headers/WireWheelSDK.h</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		DNr9cnnWzo1/CjO5H3ndplvG2Ho=
+		NFbQSkrJengTUQV/vIBxk3JHJpk=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		j0KHJwW0A+0lqlvrRevVDu1lgzg=
+		gS9TlRX3Ix+WvAZH7Zw7R5fuGgI=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,19 +74,19 @@
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		j0KHJwW0A+0lqlvrRevVDu1lgzg=
+		gS9TlRX3Ix+WvAZH7Zw7R5fuGgI=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UfHGwE6u/d3KWbYZTpM0JYBmAbg=
+		gq9C53mfZXyFLWE3Seq/ncNnPS8=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		DNr9cnnWzo1/CjO5H3ndplvG2Ho=
+		NFbQSkrJengTUQV/vIBxk3JHJpk=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		KA352ueUB7Z5vY60WOxHrliR2nU=
+		hXH7H17QzSXt9JrEhgB5Pdb7qNM=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KA352ueUB7Z5vY60WOxHrliR2nU=
+		hXH7H17QzSXt9JrEhgB5Pdb7qNM=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YchgPy3I/2rJNtYQqbgue9y1vMI=
+		2PZwZ5dcTZoDFBt0kbNjz2zL+iE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -190,7 +190,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r1LuNY3GOc0CowsnNFgMjKHGt8oKCJEylMblxPdlbdc=
+			nSrig1iqibSYqgK+uE/nKRF0SbHYLyOBzzvJjZEvpkI=
 			</data>
 		</dict>
 		<key>Base.lproj/WireWheel.storyboardc/pDj-4e-R1w-view-VRo-4b-jbo.nib</key>
@@ -204,7 +204,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jipl8teaJ7gzDe5EDVjNMFA2WZT6dS2CtGC+5RvpdXs=
+			u9RnEsfyyvKXMi1udYvQEdY88/J8fzck9G3F5tOGfHE=
 			</data>
 		</dict>
 		<key>Headers/WireWheelSDK.h</key>
@@ -218,14 +218,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L3bxLzZIcImQKxrv+Tur7ju5MNIcvhRjri8v+kfc/Ec=
+			+YrqNYz+kdF25t35fd8IB+G6EblHvfKEiJ0voCSYVW8=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R88CG4Jy4hAEnyczpu79NhITfdCB3+IpKe4QXB8ATkY=
+			zYuTGQBXyauOajo7s8uokXRiGWNN3365jM33zBvcrZ4=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -239,28 +239,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R88CG4Jy4hAEnyczpu79NhITfdCB3+IpKe4QXB8ATkY=
+			zYuTGQBXyauOajo7s8uokXRiGWNN3365jM33zBvcrZ4=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p4+ePBOISDKYIlVPBrZqdz4EiuXKxg1QAf3Up1DcsCw=
+			sJAcIHICzvGDt9jkuyEt7MFQ1vmwYY32dT7H3zKEMSY=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L3bxLzZIcImQKxrv+Tur7ju5MNIcvhRjri8v+kfc/Ec=
+			+YrqNYz+kdF25t35fd8IB+G6EblHvfKEiJ0voCSYVW8=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XUEWmSv03hf7gZZX6KeF1AjUTRPqx+ALJdC+JH/vesI=
+			jQKkXhH4avTJxO/zUy8cEHuBwyXGyUpP5nyMWoEJByw=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -274,14 +274,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XUEWmSv03hf7gZZX6KeF1AjUTRPqx+ALJdC+JH/vesI=
+			jQKkXhH4avTJxO/zUy8cEHuBwyXGyUpP5nyMWoEJByw=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QrpmGcbRX7uhFhG7GZkbi+9Nmg/C3gbU7DxJB5x6XbI=
+			MEeaUkQJ/EhStO1xXdgnjSpEZSZ126veJtyyItYGa3k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

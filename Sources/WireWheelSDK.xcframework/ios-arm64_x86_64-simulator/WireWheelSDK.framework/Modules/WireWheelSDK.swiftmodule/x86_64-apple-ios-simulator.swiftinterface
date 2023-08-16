@@ -8,9 +8,17 @@ import UIKit
 @_exported import WireWheelSDK
 import _Concurrency
 import _StringProcessing
+public struct WireWheelSDK {
+  public static func configureWith(view: UIKit.UIViewController)
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class WireWheelSDKK : ObjectiveC.NSObject {
+  public func configAPI(apiConfig: WireWheelSDK.ConfigureAPIKeyWith)
+  @objc deinit
+}
+@objc public protocol WireWheelSDKDelegate : ObjectiveC.NSObjectProtocol {
+}
 extension UIKit.UIAlertController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()
 }
-public struct WireWheelSDK {
-  public static func configure(view: UIKit.UIViewController)
+public struct ConfigureAPIKeyWith {
 }
