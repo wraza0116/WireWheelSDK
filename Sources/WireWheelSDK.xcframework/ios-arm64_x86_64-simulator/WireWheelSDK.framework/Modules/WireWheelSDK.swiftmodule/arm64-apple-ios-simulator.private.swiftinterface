@@ -11,8 +11,7 @@ import _StringProcessing
 public struct ConfigureAPIKeyWith {
 }
 public struct WireWheelSDK {
-  public static var apiConfig: WireWheelSDK.ConfigureAPIKeyWith!
-  public static func configureWith(view: UIKit.UIViewController)
+  public static func configureWith(view: UIKit.UIViewController, apiConfig: WireWheelSDK.ConfigureAPIKeyWith)
 }
 extension UIKit.UIAlertController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()
