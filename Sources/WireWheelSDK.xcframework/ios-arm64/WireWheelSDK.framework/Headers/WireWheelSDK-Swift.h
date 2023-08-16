@@ -260,7 +260,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import ObjectiveC;
 @import UIKit;
 #endif
 
@@ -292,11 +291,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
-
-
-SWIFT_PROTOCOL("_TtP12WireWheelSDK20WireWheelSDKDelegate_")
-@protocol WireWheelSDKDelegate <NSObject>
-@end
 
 #endif
 #if defined(__cplusplus)
