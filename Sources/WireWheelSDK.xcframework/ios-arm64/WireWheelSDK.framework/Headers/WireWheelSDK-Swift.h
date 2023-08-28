@@ -294,10 +294,9 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
-SWIFT_CLASS("_TtC12WireWheelSDK12WireWheelSDK")
-@interface WireWheelSDK : NSObject
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) WireWheelSDK * _Nonnull shared;)
-+ (WireWheelSDK * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
+
+SWIFT_CLASS("_TtC12WireWheelSDK17WireWheelSDKSwift")
+@interface WireWheelSDKSwift : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

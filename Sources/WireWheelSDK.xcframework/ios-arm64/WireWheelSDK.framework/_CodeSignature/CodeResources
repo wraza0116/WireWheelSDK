@@ -22,19 +22,19 @@
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/BgS-SK-90Y-view-YWy-JW-Nqc.nib</key>
 		<data>
-		354prKfssSbU701erbZfkqxZ+IM=
-		</data>
-		<key>Base.lproj/WireWheel.storyboardc/IdentifyVC.nib</key>
-		<data>
-		mxZAbeHaOnhlJ0nAL8XxPUNbxtM=
+		tsYJ4ILHCvHdXL0umugPsZ7ubqg=
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/Info.plist</key>
 		<data>
-		ZNC6nePKYr3Xnib3waz7w24YgC4=
+		yQz5FMrVm5e22jImZqMWULIpJJg=
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/ThankyouPopupVC.nib</key>
 		<data>
 		qPqEuJik4ipklG5vpStFdQJ/JuI=
+		</data>
+		<key>Base.lproj/WireWheel.storyboardc/VerificationVC.nib</key>
+		<data>
+		uqwzuC86er83o9M2LPNoepsVbnE=
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/WireWheelDashboardVC.nib</key>
 		<data>
@@ -42,15 +42,15 @@
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/gNf-4v-NQU-view-72u-Lh-usm.nib</key>
 		<data>
-		1z1lQZ4wDinjodqvATaCPH192Z4=
+		IwnwnYTbMMXfpWQCLMFqSn51nX0=
 		</data>
 		<key>Base.lproj/WireWheel.storyboardc/pDj-4e-R1w-view-VRo-4b-jbo.nib</key>
 		<data>
-		ubXimSaq5JoEfccQ4q8f+vexRLU=
+		UXEAOLYphDtUA4qx3KFnbxjpRpk=
 		</data>
 		<key>Headers/WireWheelSDK-Swift.h</key>
 		<data>
-		6BVefEq/N1VHsxy/ou/4ebrd2kU=
+		RGUqZQzCy1xt4WX9C1T8PXEvZYw=
 		</data>
 		<key>Headers/WireWheelSDK.h</key>
 		<data>
@@ -62,43 +62,27 @@
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Q39r5HXTDr8Nr6+g9u33C9iTL+Q=
+		rF29ofLEXfWiravLEGVOsKkmqQ4=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		d1fj4HVMN8Oyfu5oLDbnw8jmULU=
+		CiTemWg5+7Nz9I/riniVPb4YlSE=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		wpP+vvB9jFdnMk132OY7TRP+B/c=
+		bgbTJgaATT052dv9ecuBPPSThsA=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		d1fj4HVMN8Oyfu5oLDbnw8jmULU=
+		CiTemWg5+7Nz9I/riniVPb4YlSE=
 		</data>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		k2V7vhk9mXkiyK7U6kAc/fCvzv8=
+		x5IAt1RIIuNpSaBZMJAmiErneTE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		i0/+LoGTEIUDV1gzUBT1EoAGjRw=
-		</data>
-		<key>NotoSans-Bold.ttf</key>
-		<data>
-		otnvywF3NaONVDzMb0nipv2JO8Y=
-		</data>
-		<key>NotoSans-Medium.ttf</key>
-		<data>
-		v0cW0Np9/XIkzXQ+Jfwc54jdIdk=
-		</data>
-		<key>NotoSans-Regular.ttf</key>
-		<data>
-		SKikZmE2sBmQg3VlYT97eRHQCT8=
-		</data>
-		<key>NotoSans-SemiBold.ttf</key>
-		<data>
-		BvOD7hKaLd3YDPk6hyVgeXmV9PY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -135,21 +119,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zB9JdcAlkOjilDF/+gbN2tOh+/jS/gKHQWdZYBT9w/s=
-			</data>
-		</dict>
-		<key>Base.lproj/WireWheel.storyboardc/IdentifyVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PzUtnO58mxUt9iASWAgvUgAzTngodfEZi4BHE2MgsSw=
+			gGf+d7qs58ifHH2pcW213b/THE14ro8jVbgfBC0WoUc=
 			</data>
 		</dict>
 		<key>Base.lproj/WireWheel.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LwlpS59FL8z87YnoIQkIUGUhhffVZ/chi3BQl09F3Cw=
+			jPV1kzQJe2EdNVPaodroL/1OLuFP9EMN1rGLvC94DME=
 			</data>
 		</dict>
 		<key>Base.lproj/WireWheel.storyboardc/ThankyouPopupVC.nib</key>
@@ -157,6 +134,13 @@
 			<key>hash2</key>
 			<data>
 			dMYVDoHzr3e8MrqiHBNXcxE8WrnZDugtOSDqQLWlVoc=
+			</data>
+		</dict>
+		<key>Base.lproj/WireWheel.storyboardc/VerificationVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2qJUYil/P4kzPBUhQxITi2Cxx0nVOTgcRAh3F7Jg1I8=
 			</data>
 		</dict>
 		<key>Base.lproj/WireWheel.storyboardc/WireWheelDashboardVC.nib</key>
@@ -170,21 +154,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nSrig1iqibSYqgK+uE/nKRF0SbHYLyOBzzvJjZEvpkI=
+			FKMA543itp8wY0RHFY/wUTj0HcHcNSkA5J/nn8BWCw0=
 			</data>
 		</dict>
 		<key>Base.lproj/WireWheel.storyboardc/pDj-4e-R1w-view-VRo-4b-jbo.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HXrPyKhy6wQ41I/Vjiu5QoWYlGFJ9S1oyRHq3+NeAow=
+			AeW+pBYTLct2CBlHKFUWjWLWJ7uO5MwoJABiMolosbw=
 			</data>
 		</dict>
 		<key>Headers/WireWheelSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fKcrEt+Mz0ZXkbIJuRcA2fvLKKz0zV0Emu9Ha2pG8FQ=
+			JyZHTE5xJl5+YDtMExc5q3/Jk9YFEWvZV7sTz4jaGpI=
 			</data>
 		</dict>
 		<key>Headers/WireWheelSDK.h</key>
@@ -198,35 +182,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/u6cJrd+mGfmYb9AUAXSV9KREj8htFw7Ic3RVFpnTD0=
+			l0AplAkRhfIxTCxmtbFEW86jsmpci9Kt/ki3RrzU0dI=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Hghmeg2VvUEmBQubRqGXW8fYO3dX0q317KWEM5G5Mg=
+			ehgpp9Bnmh4z4CCxz63Fjw9JL6xa1iuLzHaGSDQGQvo=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4u1NduhniYEIW5zNm3EDvEkwOo2z+ILJVnpkzeVbeu0=
+			2xiCA6a5/GHSsfd2CZVSdWgIzINjpOsTszmmmdySLSo=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Hghmeg2VvUEmBQubRqGXW8fYO3dX0q317KWEM5G5Mg=
+			ehgpp9Bnmh4z4CCxz63Fjw9JL6xa1iuLzHaGSDQGQvo=
 			</data>
 		</dict>
 		<key>Modules/WireWheelSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GDYO00t2RsThai+XLqpJdJiMGQcLpETVj61SoZRD40c=
+			D+CJiE3JdY6O+wNHyGkcDIN/Vf5sIQgIJgDht8phgJ0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -234,34 +218,6 @@
 			<key>hash2</key>
 			<data>
 			T1HOCmybkB678qfpEwyxOGI04nU7HWVPrktye9427HE=
-			</data>
-		</dict>
-		<key>NotoSans-Bold.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			i2OJ1nExXd+eUKtEGaO4pAKYtwmkbnhaNF7y7PRzuNY=
-			</data>
-		</dict>
-		<key>NotoSans-Medium.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KTEZkSD8XBPMypuvKfW72SfHWja8DsgUfpIpPrvQMW4=
-			</data>
-		</dict>
-		<key>NotoSans-Regular.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LsM/hGBsuqChqURIjhT5f68vaiXs3YNU9TWPBtoTx9k=
-			</data>
-		</dict>
-		<key>NotoSans-SemiBold.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nL/WIK2e4nXJUu4N6U0HLvyrVchjiqViu08Q7MFrULI=
 			</data>
 		</dict>
 	</dict>

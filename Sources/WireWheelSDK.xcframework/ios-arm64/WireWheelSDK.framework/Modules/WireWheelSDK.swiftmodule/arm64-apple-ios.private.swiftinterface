@@ -8,14 +8,69 @@ import UIKit
 @_exported import WireWheelSDK
 import _Concurrency
 import _StringProcessing
-public struct ConfigureAPIKeyWith {
-}
-@_inheritsConvenienceInitializers @objc final public class WireWheelSDK : ObjectiveC.NSObject {
-  @objc public static let shared: WireWheelSDK.WireWheelSDK
-  @objc override dynamic public init()
-  final public func configureWith(view: UIKit.UIViewController, apiConfig: WireWheelSDK.ConfigureAPIKeyWith.Type)
-  @objc deinit
+public struct Action : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 extension UIKit.UIAlertController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()
 }
+@objc @_inheritsConvenienceInitializers final public class WireWheelSDKSwift : ObjectiveC.NSObject {
+  public static let shared: WireWheelSDK.WireWheelSDKSwift
+  final public var delegate: (any WireWheelSDK.WireWheelSDKSwiftDelegate)?
+  final public var headingColor: UIKit.UIColor
+  final public var headingFont: UIKit.UIFont
+  final public var paragraphColor: UIKit.UIColor
+  final public var paragraphFont: UIKit.UIFont
+  final public var buttonsColor: UIKit.UIColor
+  final public var buttonsFont: UIKit.UIFont
+  final public var pageBackgroundColor: UIKit.UIColor
+  final public var cellBackgroundColor: UIKit.UIColor
+  final public var tabConsentText: Swift.String
+  final public var tabCommunicationsText: Swift.String
+  final public var dashboardButtonText: Swift.String
+  final public var shouldHideTabConsent: Swift.Bool
+  final public var shouldHideTabCommunications: Swift.Bool
+  final public var cellMoreInfoText: Swift.String
+  final public var cellOptInText: Swift.String
+  final public var cellOptOutText: Swift.String
+  final public var menuPrivacyPolicyText: Swift.String
+  final public var dialogThankYouTitleText: Swift.String
+  final public var dialogThankYouMessageText: Swift.String
+  final public var dialogThankYouButtonText: Swift.String
+  final public var dialogVerifyTitleText: Swift.String
+  final public var dialogVerifyMessageText: Swift.String
+  final public var dialogVerifyButtonText: Swift.String
+  final public var dialogSaveTitleText: Swift.String
+  final public var dialogSaveMessageText: Swift.String
+  final public var dialogSaveButtonText: Swift.String
+  final public var dialogCancelButtonText: Swift.String
+  final public var dialogVerificationTitleText: Swift.String
+  final public var dialogVerificationMessageText: Swift.String
+  final public var dialogEmailPlacerholder: Swift.String
+  final public var dialogVerificationCodePlacerholder: Swift.String
+  final public var dialogVerificationSubmitButtonText: Swift.String
+  final public var dialogVerificationVerifyButtonText: Swift.String
+  final public var hideTab: WireWheelSDK.HeadingTab
+  final public func initWith(view: UIKit.UIViewController, clientId: Swift.String, clientSecret: Swift.String, issuerURL: Swift.String, channelId: Swift.String, email: Swift.String?)
+  @objc override dynamic public init()
+  @objc deinit
+}
+public protocol WireWheelSDKSwiftDelegate : ObjectiveC.NSObjectProtocol {
+  func didCancelWireWheelSDK()
+  func didSubmitWireWheelSDK(selectedItemAt index: Swift.Int, action: [[Swift.String : Any]])
+  func didWireWheelSDKPrivacyPolicy()
+}
+public enum HeadingTab : Swift.Int {
+  case none
+  case consent
+  case communication
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension WireWheelSDK.HeadingTab : Swift.Equatable {}
+extension WireWheelSDK.HeadingTab : Swift.Hashable {}
+extension WireWheelSDK.HeadingTab : Swift.RawRepresentable {}
