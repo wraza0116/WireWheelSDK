@@ -8,29 +8,28 @@ import UIKit
 @_exported import WireWheelSDK
 import _Concurrency
 import _StringProcessing
+extension UIKit.UIAlertController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()
+}
 public struct Action : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
-}
-extension UIKit.UIAlertController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()
 }
 @objc @_inheritsConvenienceInitializers final public class WireWheelSDKSwift : ObjectiveC.NSObject {
   public static let shared: WireWheelSDK.WireWheelSDKSwift
   final public var delegate: (any WireWheelSDK.WireWheelSDKSwiftDelegate)?
   final public var headingColor: UIKit.UIColor
-  final public var headingFont: UIKit.UIFont
+  final public var headingFont: Swift.String?
   final public var paragraphColor: UIKit.UIColor
-  final public var paragraphFont: UIKit.UIFont
+  final public var paragraphFont: Swift.String?
   final public var buttonsColor: UIKit.UIColor
-  final public var buttonsFont: UIKit.UIFont
+  final public var buttonsFont: Swift.String?
   final public var pageBackgroundColor: UIKit.UIColor
   final public var cellBackgroundColor: UIKit.UIColor
+  final public var hideTab: WireWheelSDK.HeadingTab
   final public var tabConsentText: Swift.String
   final public var tabCommunicationsText: Swift.String
   final public var dashboardButtonText: Swift.String
-  final public var shouldHideTabConsent: Swift.Bool
-  final public var shouldHideTabCommunications: Swift.Bool
   final public var cellMoreInfoText: Swift.String
   final public var cellOptInText: Swift.String
   final public var cellOptOutText: Swift.String
@@ -51,7 +50,6 @@ extension UIKit.UIAlertController {
   final public var dialogVerificationCodePlacerholder: Swift.String
   final public var dialogVerificationSubmitButtonText: Swift.String
   final public var dialogVerificationVerifyButtonText: Swift.String
-  final public var hideTab: WireWheelSDK.HeadingTab
   final public func initWith(view: UIKit.UIViewController, clientId: Swift.String, clientSecret: Swift.String, issuerURL: Swift.String, channelId: Swift.String, email: Swift.String?)
   @objc override dynamic public init()
   @objc deinit
