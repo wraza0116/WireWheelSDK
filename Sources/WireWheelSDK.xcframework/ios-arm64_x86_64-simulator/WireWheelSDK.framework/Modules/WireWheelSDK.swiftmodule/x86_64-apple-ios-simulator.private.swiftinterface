@@ -8,16 +8,10 @@ import UIKit
 @_exported import WireWheelSDK
 import _Concurrency
 import _StringProcessing
-extension UIKit.UIAlertController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()
-}
-public struct Action : Swift.Codable {
-  public func encode(to encoder: any Swift.Encoder) throws
-  public init(from decoder: any Swift.Decoder) throws
-}
 @objc @_inheritsConvenienceInitializers final public class WireWheelSDKSwift : ObjectiveC.NSObject {
   public static let shared: WireWheelSDK.WireWheelSDKSwift
   final public var delegate: (any WireWheelSDK.WireWheelSDKSwiftDelegate)?
+  final public var verifiedEmailAddress: Swift.String?
   final public var headingColor: UIKit.UIColor
   final public var headingFont: Swift.String?
   final public var paragraphColor: UIKit.UIColor
@@ -26,7 +20,7 @@ public struct Action : Swift.Codable {
   final public var buttonsFont: Swift.String?
   final public var pageBackgroundColor: UIKit.UIColor
   final public var cellBackgroundColor: UIKit.UIColor
-  final public var hideTab: WireWheelSDK.HeadingTab
+  final public var navigationTab: WireWheelSDK.NavigationTab
   final public var tabConsentText: Swift.String
   final public var tabCommunicationsText: Swift.String
   final public var dashboardButtonText: Swift.String
@@ -50,7 +44,7 @@ public struct Action : Swift.Codable {
   final public var dialogVerificationCodePlacerholder: Swift.String
   final public var dialogVerificationSubmitButtonText: Swift.String
   final public var dialogVerificationVerifyButtonText: Swift.String
-  final public func initWith(view: UIKit.UIViewController, clientId: Swift.String, clientSecret: Swift.String, issuerURL: Swift.String, channelId: Swift.String, email: Swift.String?)
+  final public func initWith(view: UIKit.UIViewController, clientId: Swift.String, clientSecret: Swift.String, issuerURL: Swift.String, channelId: Swift.String)
   @objc override dynamic public init()
   @objc deinit
 }
@@ -59,8 +53,7 @@ public protocol WireWheelSDKSwiftDelegate : ObjectiveC.NSObjectProtocol {
   func didSubmitWireWheelSDK(selectedItemAt index: Swift.Int, action: [[Swift.String : Any]])
   func didWireWheelSDKPrivacyPolicy()
 }
-public enum HeadingTab : Swift.Int {
-  case none
+public enum NavigationTab : Swift.Int {
   case consent
   case communication
   public init?(rawValue: Swift.Int)
@@ -69,6 +62,13 @@ public enum HeadingTab : Swift.Int {
     get
   }
 }
-extension WireWheelSDK.HeadingTab : Swift.Equatable {}
-extension WireWheelSDK.HeadingTab : Swift.Hashable {}
-extension WireWheelSDK.HeadingTab : Swift.RawRepresentable {}
+extension UIKit.UIAlertController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLayoutSubviews()
+}
+public struct Action : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+extension WireWheelSDK.NavigationTab : Swift.Equatable {}
+extension WireWheelSDK.NavigationTab : Swift.Hashable {}
+extension WireWheelSDK.NavigationTab : Swift.RawRepresentable {}

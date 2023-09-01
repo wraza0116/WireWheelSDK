@@ -291,10 +291,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
-
-
-
-
 SWIFT_CLASS("_TtC12WireWheelSDK17WireWheelSDKSwift")
 @interface WireWheelSDKSwift : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -596,10 +592,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @interface UIAlertController (SWIFT_EXTENSION(WireWheelSDK))
 - (void)viewDidLayoutSubviews;
 @end
-
-
-
-
 
 
 
