@@ -22,5 +22,6 @@ let package = Package(
         .binaryTarget(
             name: "WireWheelSDK",
             path: "./Sources/WireWheelSDK.xcframework")
+
     ]
 )
