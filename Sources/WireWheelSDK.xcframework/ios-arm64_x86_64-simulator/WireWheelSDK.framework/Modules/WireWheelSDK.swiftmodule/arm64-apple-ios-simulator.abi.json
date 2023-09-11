@@ -4488,63 +4488,63 @@
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6649,
+      "offset": 6703,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7836,
+      "offset": 7890,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8909,
+      "offset": 8963,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 9607,
+      "offset": 9661,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 9768,
+      "offset": 9822,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9926,
+      "offset": 9980,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9958,
+      "offset": 10012,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10157,
+      "offset": 10211,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10851,
+      "offset": 10905,
       "length": 1,
       "value": "0"
     },
@@ -4852,63 +4852,49 @@
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7195,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7342,
+      "offset": 7346,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7515,
+      "offset": 7519,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7583,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7932,
+      "offset": 7940,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7947,
+      "offset": 7955,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8398,
+      "offset": 8406,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8412,
+      "offset": 8420,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/MVVM\/ViewControllers\/Dashboard\/WireWheelDashboardVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8433,
+      "offset": 8441,
       "length": 2,
       "value": "-1"
     },
@@ -7108,14 +7094,14 @@
       "kind": "StringLiteral",
       "offset": 1040,
       "length": 8,
-      "value": "\"Opt In\""
+      "value": "\"Opt in\""
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/Utilities\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1083,
       "length": 9,
-      "value": "\"Opt Out\""
+      "value": "\"Opt out\""
     },
     {
       "filePath": "\/Users\/simpalmios\/Documents\/WireWheel_iOS\/Framework\/WireWheelSDK_Framework\/WireWheelSDK\/Utilities\/Constants.swift",
